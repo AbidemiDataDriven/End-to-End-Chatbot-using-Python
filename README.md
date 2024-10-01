@@ -21,4 +21,6 @@ Deploy the chatbot
 
 <img width="1440" alt="Screenshot 2024-10-01 at 1 20 49 PM" src="https://github.com/user-attachments/assets/8af4c771-dcaa-418a-9901-5bd093345fa4">
 
+streamlit application deployment link http://localhost:8502
+
 
